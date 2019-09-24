@@ -1,0 +1,12 @@
+[package]
+name = "paranormal"
+version = "0.1.0"
+authors = ["Eduard-Mihai Burtescu <edy.burt@gmail.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+image = "0.22.2"
+hsl = "0.1.1"
+apng-encoder = "0.3.0"
